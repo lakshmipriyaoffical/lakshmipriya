@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursing BCA at St Joseph College <br>👯 I’m looking to collaborate on google <br>🤝 I’m looking for help with githud <br>🌱 I’m currently learning bca <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently pursing BCA at St Joseph College <br>👯 I’m looking to collaborate on Google,github,youtube <br>🤝 I’m looking for help with google for improving my techanical skills <br>🌱 I’m currently learning full stack deveploment ,python,java, javascript,html,css<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
